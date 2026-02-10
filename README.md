@@ -234,3 +234,34 @@ If you'd like to discuss any project, or share ideas, feel free to reach out:
 
 ---
 
+## Setup & Installation
+
+This repository contains multiple Python subprojects. To ensure all scripts run correctly, you can set up your environment using one of the two dependency files provided in the root directory.
+
+### Option 1: Using Pip (Standard)
+Best for standard Python environments or `venv`.
+1. Create and activate your virtual environment.
+2. Run the following command:
+   ```bash
+   pip install -r requirements_PIP.txt
+   ```
+> **Note:** This file contains a comprehensive list of Python packages required across all subprojects.
+
+---
+
+### Option 2: Using Conda / Mamba (Recommended)
+Best if you want to reproduce the exact environment including system-level dependencies.
+1. Create a new environment from the configuration file:
+   ```bash
+   mamba env create -f env_CONDA.yml
+   ```
+   *(If you don't have Mamba, you can use `conda env create -f environment.yml`)*
+2. Activate the environment:
+   ```bash
+   mamba activate ds_ml
+   ```
+
+---
+
+### ⚠️ Project Structure Note
+Since these dependencies are bundled at the **root level**, installing them will prepare your environment for all subprojects simultaneously. If you encounter any version conflicts while running a specific script, please refer to that subproject's individual folder for more details.
