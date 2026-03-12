@@ -14,7 +14,8 @@ Each subfolder contains a standalone project with its own dataset, notebooks, an
 Below is a brief overview of each one.
 
 ---
-DATA FOR PROJECTS : https://drive.google.com/drive/folders/1eBjre1gkmacm53og1qCbiCDNdiZFt-NX?usp=drive_link
+Data for projects : https://drive.google.com/drive/folders/1eBjre1gkmacm53og1qCbiCDNdiZFt-NX?usp=drive_link
+
 ---
 
 ### 1. `bpm`
