@@ -19,6 +19,8 @@ Data for projects : https://drive.google.com/drive/folders/1eBjre1gkmacm53og1qCb
 ---
 
 ### 1. `bpm`
+**Data:** On Google Drive
+
 **Description:**  
 This subproject is built around a dataset containing information about various characteristics of a set of music tracks. Based on data such as rhythm, volume, instrument strength, etc., the goal is to regress the characteristic of beats per minute. 
 
@@ -38,6 +40,8 @@ Best result is MSE = 26.43, (Kaggle best result = 25.xxx)
 ---
 
 ### 2. `iris`
+**Data:** the data will be set automatically
+
 **Description:**  
 Classic Iris dataset classification problem — predicting flower species from petal/sepal features
 The aim of this subproject is to test various methods of primary analysis and visualisation using a simple example.
@@ -57,6 +61,8 @@ Accuracy = 1.0
 ---
 
 ### 3. `titanic`
+**Data:** https://www.kaggle.com/competitions/titanic
+
 **Description:**  
 Predicting passenger survival on the Titanic — Kaggle classic dataset.
 The aim of this project is to use a well-known problem as an example to work on feature engineering and to test individual and combined machine learning methods.
@@ -76,6 +82,8 @@ Accuracy: 0.81 on validation set
 ---
 
 ### 4. `EmissionsCO2`
+**Data:** On Google Drive
+
 **Description:**  
 Predicting CO₂ emissions from vehicle specifications.
 This project is an academic project carried out as part of the lesson named "Atelier de Recherche Encadre en Data Science", with the aim of independently implementing machine learning algorithms such as the naive Bayes classifier, decision tree classifier, and knn classifier. 
@@ -93,6 +101,8 @@ pandas, numpy, matplotlib
 ---
 
 ### 5. `CIFAR-10`
+**Data:** the data will be set automatically
+
 **Description:**  
 A classic example of an image dataset for recognising the class of an object in it. 
 Project goal: to work on augmenting the source data, implement a comprehensive approach to preparing the dataset, create a neural network architecture, and perform a training cycle. 
@@ -113,6 +123,8 @@ Validation accuracy = 0.85
 ---
 
 ### 6. `FER`
+**Data:** On Google Drive
+
 **Description:**  
 Facial emotion recognition using convolutional neural networks.
 
@@ -136,6 +148,8 @@ In 100 epochs model converges to 0.6 accuracy
 ---
 
 ### 7. `Morse-decoder`
+**Data:** https://www.kaggle.com/competitions/morse-decoder
+
 **Description:**  
 A large-scale comprehensive project developed during a test assignment for an internship at Kontur (Russia). The aim of the project is to use sound clips (signal recordings) to extract the Morse code contained within them. 
 
@@ -157,6 +171,8 @@ In progress
 ---
 
 ### 8. `Emotions detect`
+**Data:** On Google Drive
+
 **Description:**  
 A subproject aimed at developing a text processing method for assessing the emotional load of English phrases. Project goal: text data processing, tokenization, working with contextual dependencies within phrases. 
 
@@ -175,6 +191,8 @@ F1-score = 0.992 (choice explained in Notebook)
 ---
 
 ### 9. `Stepik client dropout`
+**Data:** On Google Drive
+
 **Description:**  
 The project is based on logs from the Stepik online platform and aims to analyze the reasons why online course students decide to drop out. The idea behind the project is to use a specific user's activity history to predict whether they will drop out of the course or complete it. 
 The project is very interesting from a feature engineering perspective, as the raw data is completely meaningless and unsuitable for training. 
@@ -194,6 +212,8 @@ ROC-AUC = 0.73
 ---
 
 ### 10. `Mnist`
+**Data:** the data will be set automatically
+
 **Description:**  
 A classic and trivial task for training with early neural networks. An old project.
 
