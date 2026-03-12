@@ -123,7 +123,7 @@ Validation accuracy = 0.85
 ---
 
 ### 6. `FER`
-**Data:** On Google Drive
+**Data:** https://www.kaggle.com/datasets/msambare/fer2013
 
 **Description:**  
 Facial emotion recognition using convolutional neural networks.
