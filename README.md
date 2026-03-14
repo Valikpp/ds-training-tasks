@@ -168,6 +168,8 @@ PyTorch, Librosa, NumPy, pandas
 **Result:**  
 In progress
 
+**Licence: CC BY-NC-SA**
+
 ---
 
 ### 8. `Emotions detect`
